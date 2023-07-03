@@ -14,12 +14,12 @@ const config: DocsThemeConfig = {
     />
   ),
   project: {
-    link: 'https://github.com/0xwaya/DRU_Resources',
+    link: 'https://github.com/0xwaya/devreluni_rss',
   },
   chat: {
     link: 'https://discord.gg/TcAC7RVB7H',
   },
-  docsRepositoryBase: 'https://github.com/0xwaya/DRU_Resources',
+  docsRepositoryBase: 'https://github.com/0xwaya/devreluni_rss/tree/main',
   footer: {
     text: 'DevRel University Resources',
   },
