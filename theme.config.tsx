@@ -9,8 +9,8 @@ const config: DocsThemeConfig = {
     <Image
       src={druLogo}
       alt="DevRel University Logo"
-      width={50}
-      height={50}
+      width={80}
+      height={80}
     />
   ),
   project: {

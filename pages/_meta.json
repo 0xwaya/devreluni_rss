@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
-  "web2": "DevRel Web2",
-  "web3": "DevRel Web3",
+  "devrel_web2": "DevRel Web2",
+  "devrel_web3": "DevRel Web3",
+  "wiki": "Wiki",
   "about": {
     "title": "About",
     "type": "page"
