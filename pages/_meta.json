@@ -1,8 +1,9 @@
 {
   "index": "Introduction",
    "cohorts": "Cohorts",
-  "resources": "Resources",
-  "wiki": "Wiki",
+   "resources": "Resources",
+   "captain_program": "Captain Program",
+   "wiki": "Wiki",
   "about": {
     "title": "About",
     "type": "page"
