@@ -26,7 +26,7 @@ Resources in this repository are organized into different categories for easy na
 - [Content Creation](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/content_creation)
 - [DevRelUni](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/devreluni)
 - [Events](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/events)
-- [Industry](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/industry)
+- [Performance](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/performance)
 - [Social Media](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/social_media)
 - [Technical](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/technical)
 
