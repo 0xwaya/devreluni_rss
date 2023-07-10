@@ -22,13 +22,13 @@ Please ensure that your contributions align with our community guidelines and co
 
 Resources in this repository are organized into different categories for easy navigation and discovery. Here are the existing resource categories available:
 
-- [Communication](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/communication)
-- [Content Creation](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/content_creation)
-- [DevRelUni](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/devreluni)
-- [Events](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/events)
-- [Performance](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/performance)
-- [Social Media](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/social_media)
-- [Technical](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/technical)
+- [Communication](https://github.com/0xwaya/devreluni_rss/blob/main/pages/resources/communication.mdx)
+- [Content Creation](https://github.com/0xwaya/devreluni_rss/blob/main/pages/resources/content_creation.mdx)
+- [DevRelUni](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/devreluni.mdx)
+- [Events](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/events.mdx)
+- [Performance](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/performance.mdx)
+- [Social Media](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/social_media.mdx)
+- [Technical](https://github.com/0xwaya/devreluni_rss/tree/main/pages/resources/technical.mdx)
 
 Feel free to explore these categories and discover resources that interest you. If you cannot find what you are looking for, consider adding new resources or creating a new category that addresses your specific needs.
 
