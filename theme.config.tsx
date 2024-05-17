@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 import Image from 'next/image'
 
-import druLogo from './.github/dru_logo.png'
+import druLogo from '../../github/dru_logo.png'
 
 const config: DocsThemeConfig = {
   logo: (
