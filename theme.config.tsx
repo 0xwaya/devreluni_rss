@@ -6,6 +6,7 @@ import druLogo from '.github/dru_logo.png'
 
 const config: DocsThemeConfig = {
   logo: (
+    <a href="https://www.devreluni.com/">
     <Image
       src={druLogo}
       alt="DevRel University Logo"
