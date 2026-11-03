@@ -1,17 +1,20 @@
 # SECURITY_NOTES.md — devreluni_rss
 
-Date: 2026-03-02 (America/New_York)
+Date: 2026-11-03 (America/New_York)
 
 ## Current security posture
 - Static documentation site (Next.js + Nextra) with no backend auth/session flow in this repo.
 - Primary risks are supply-chain/dependency vulnerabilities and repo hygiene issues.
+- Runtime is pinned to Next.js 16.4.5 (includes the image-optimization RCE fixes and the 2026-11-03 advisories) and `sharp` 0.35.5.
+- Nextra 4 (App Router) is required for that Next.js line. Pages Router content lives in `content/`.
+- One lockfile only: `package-lock.json`. `yarn.lock` and `pnpm-lock.yaml` were removed so Dependabot does not keep alerting on stale manifests.
 
 ## Recommendations
 
 1. **Dependency risk management (High)**
    - Run `npm audit` in CI and triage high/critical issues.
-   - Introduce scheduled dependency update PRs (e.g., Dependabot/Renovate).
-   - Prefer pinned versions for critical packages over broad ranges where possible.
+   - Keep Dependabot/Renovate PRs merging onto this single npm lockfile.
+   - Prefer pinned versions for `next`, `react`, and `sharp`.
 
 2. **Build pipeline hardening (Medium)**
    - Use lockfile integrity checks in CI (`npm ci` only).
